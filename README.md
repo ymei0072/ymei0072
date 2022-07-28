@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 [![email](https://img.icons8.com/clouds/60/000000/new-post.png)][2] Email Me!
 
 ### About Me 
-<br/>
 
 ```class WhoAmI:
 	user = 'Yukstor (Yuki) Mei'
