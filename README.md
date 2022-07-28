@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### About Me 
 <br/>
 
-class WhoAmI:
+```class WhoAmI:
 	user = 'Yukstor (Yuki) Mei'
    	current_work = 'Learning to code'
    	hobbies = [
@@ -39,7 +39,7 @@ class WhoAmI:
    	FullstackDeveloper()
    	StayDRY()
    	AlwaysBeCoding()
-   	# Assume 10 more awesome ambitions here  ;)
+   	# Assume 10 more awesome ambitions here  ;)```
    
 
 
