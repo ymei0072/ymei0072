@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ---
-[![linkedin](file:///Users/yukstormei/Downloads/linkedin-removebg-preview.png)][1]
+[![LinkedIn](https://img.icons8.com/clouds/452/linkedin.png)][1]
 ---
 
 [1]: https://www.linkedin.com/in/yukstor-mei/
