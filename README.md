@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+[![linkedin](file:///Users/yukstormei/Downloads/linkedin-removebg-preview.png)][1]
+---
+
+[1]: https://www.linkedin.com/in/yukstor-mei/
