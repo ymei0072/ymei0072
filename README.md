@@ -20,6 +20,29 @@ Here are some ideas to get you started:
 [![linkedin](https://img.icons8.com/clouds/60/000000/linkedin.png)][1] Lets connect on LinkedIn!
 [![email](https://img.icons8.com/clouds/60/000000/new-post.png)][2] Email Me!
 
+### About Me 
+<br/>
+
+class WhoAmI:
+	user = 'Yukstor (Yuki) Mei'
+   	current_work = 'Learning to code'
+   	hobbies = [
+   			'Baking'. ![Baking](https://img.icons8.com/external-bluetone-bomsymbols-/30/000000/external-baking-furniture-household-bluetone-bluetone-bomsymbols-.png),
+   			'Running',
+   			'Bothering my cats (yes, plural)'
+   		]
+   
+   def getCity():
+   	return New_York()
+   
+   def Ambitions():
+   	FullstackDeveloper()
+   	StayDRY()
+   	AlwaysBeCoding()
+   	# Assume 10 more awesome ambitions here  ;)
+   
+
+
 
 
 
