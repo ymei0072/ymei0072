@@ -12,7 +12,7 @@ class WhoIAm {
     this.currently = 'Learning to code';
     this.hobbies = [
 	'Baking🍰',
-	'Running🏃🏻‍♀️'💨,
+	'Running🏃🏻‍♀️💨',
 	'Bothering my cats (yes, plural)🐈🐈‍⬛'
      ];
   }
