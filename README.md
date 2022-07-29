@@ -7,7 +7,7 @@
 ---
 ```
 class WhoIAm {
-  constructor(user, currently, hobbies) {
+  constructor() {
     this.user = 'Yukstor (Yuki) Mei';
     this.currently = 'Learning to code';
     this.hobbies = [
@@ -23,8 +23,8 @@ class WhoIAm {
   
   ambitions() {
     return [
-      'FullstackDeveloper👩🏻‍💻'
-      'StayDRY'
+      'FullstackDeveloper👩🏻‍💻',
+      'StayDRY',
       'AlwaysBeCoding💻'
     ]
   }  
