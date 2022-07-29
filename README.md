@@ -21,7 +21,7 @@ class WhoIAm {
     return 'New York'🗽
   }
   
-  Ambitions() {
+  ambitions() {
     return [
       'FullstackDeveloper'👩🏻‍💻
       'StayDRY'
