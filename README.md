@@ -11,21 +11,21 @@ class WhoIAm {
     this.user = 'Yukstor (Yuki) Mei';
     this.currently = 'Learning to code';
     this.hobbies = [
-	'Baking'🍰,
-	'Running'🏃🏻‍♀️💨,
+	'Baking🍰',
+	'Running🏃🏻‍♀️'💨,
 	'Bothering my cats (yes, plural)🐈🐈‍⬛'
      ];
   }
   
   getCity() {
-    return 'New York'🗽
+    return 'New York🗽'
   }
   
   ambitions() {
     return [
-      'FullstackDeveloper'👩🏻‍💻
+      'FullstackDeveloper👩🏻‍💻'
       'StayDRY'
-      'AlwaysBeCoding'💻
+      'AlwaysBeCoding💻'
     ]
   }  
 }
