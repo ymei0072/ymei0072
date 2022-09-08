@@ -34,5 +34,5 @@ class WhoIAm {
    
 [1]: https://www.linkedin.com/in/yukstor-mei/
 [2]: mailto:yukstormei@gmail.com
-[3]: yukimei.dev
+[3]: https://www.yukimei.dev
 
