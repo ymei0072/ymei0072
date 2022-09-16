@@ -7,7 +7,7 @@
 [![portfolio](https://img.icons8.com/clouds/60/000000/domain.png)][3] **View My Portfolio**
 
 ---
-### :hammer_and_wrench: Languages and Tools:
+### Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -23,7 +23,7 @@
 </div>
 
 ---
-### :fire: My Stats : 
+### My Stats : 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ymei0072&theme=onedark_duo&background=DCEEC8)](https://git.io/streak-stats)
 
 ---
