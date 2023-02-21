@@ -4,7 +4,6 @@
 
 [![linkedin](https://img.icons8.com/clouds/60/000000/linkedin.png)][1] **Let's connect on LinkedIn**
 [![email](https://img.icons8.com/clouds/60/000000/new-post.png)][2] **Email Me**
-[![portfolio](https://img.icons8.com/clouds/60/000000/domain.png)][3] **View My Portfolio**
 
 ---
 ### Languages and Tools:
