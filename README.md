@@ -25,30 +25,6 @@
 ### My Stats : 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ymei0072&theme=onedark_duo&background=DCEEC8)](https://git.io/streak-stats)
 
----
-### About Me 👋🏼
-```
-class WhoIAm {
-  constructor() {
-    this.user = 'Yukstor (Yuki) Mei';
-    this.currently = 'Practicing algorithms';
-    this.hobbies = [
-	'Baking🍰',
-	'Running🏃🏻‍♀️💨',
-	'Yoga🧘🏻‍♀️'
-     ];
-  }
-  
-  getCity() {
-    return 'New York🗽'
-  }
-  
-  ambitions() {
-    return [
-      'FullstackDeveloper👩🏻‍💻',
-    ]
-  }  
-}
 ```
 
 <img src="https://komarev.com/ghpvc/?username=ymei0072&style=flat-square&color=blue" alt=""/>
