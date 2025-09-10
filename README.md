@@ -24,13 +24,3 @@
 ---
 ### My Stats : 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ymei0072&theme=onedark_duo&background=DCEEC8)](https://git.io/streak-stats)
-
-```
-
-<img src="https://komarev.com/ghpvc/?username=ymei0072&style=flat-square&color=blue" alt=""/>
-
-
-[1]: https://www.linkedin.com/in/yukstor-mei/
-[2]: mailto:yukstormei@gmail.com
-[3]: https://www.yukimei.dev
-
